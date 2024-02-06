@@ -32,4 +32,5 @@ Collaborate with healthcare professionals to validate model predictions and asse
 Consider longitudinal studies to evaluate the long-term impact of preventive interventions based on predictive modeling.
 
 _Acknowledgment:_
+
 I would like to acknowledge the contribution of the dataset provider for enabling research in the field of diabetes risk prediction. Additionally, I express my gratitude to healthcare professionals and researchers dedicated to advancing knowledge and improving outcomes in diabetes management.
